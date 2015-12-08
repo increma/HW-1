@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTL-8">
+	<title>Home work</title>
+</head>
+
+<body align ="center">
+	<h1>Front End Developers</h1>
+	<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus eligendi quibusdam culpa ullam nesciunt deleniti recusandae quaerat neque quod, reiciendis alias iste sint ipsam placeat dolorem beatae dicta at nobis. </p>
+	<hr  color="green"	width="500"	size="8">
+	<h2 align="left"><b><font  color="red">CATS ARE COOL</font></b></h2>
+	<h2 align="right"><b><font color="blue">WE NEED MORE CATS</font></b></h2>
+
+</body>
+</html>
